@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\repositories\\employeecollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\repositories\\employeecollectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\employeewebsolution.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\employeewebsolution.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|c:\\users\\aniket\\desktop\\.net\\employeesolution\\employeewebsolution\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEAC2F3-B983-4B2D-BDCE-52A5B656CF6D}|EmployeeWebSolution\\EmployeeWebSolution.csproj|solutionrelative:employeewebsolution\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\appsettings.json",
+              "RelativeToolTip": "EmployeeWebSolution\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T14:43:20.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeWebSolution\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:31:59.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Program.cs",
+              "RelativeToolTip": "EmployeeWebSolution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:25:37.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeWebSolution\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:59:48.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCollectionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Repositories\\EmployeeCollectionContext.cs",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\Repositories\\EmployeeCollectionContext.cs",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Repositories\\EmployeeCollectionContext.cs",
+              "RelativeToolTip": "EmployeeWebSolution\\Repositories\\EmployeeCollectionContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:44:13.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeWebSolution\\Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:56:48.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeWebSolution.http",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\EmployeeWebSolution.http",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\EmployeeWebSolution.http",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\EmployeeWebSolution.http",
+              "RelativeToolTip": "EmployeeWebSolution\\EmployeeWebSolution.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-07T14:43:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeWebSolution\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T14:43:57.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWebSolution\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Aniket\\Desktop\\.NET\\EmployeeSolution\\EmployeeWebSolution\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeWebSolution\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:11:57.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
